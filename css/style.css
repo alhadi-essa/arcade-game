@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    /*background: radial-gradient(circle, blue, white);*/
+    background-image:url('../images/BG.jpg');
+     /*background-repeat: no-repeat;*/
+     background-size:contain;
+}
+
+.scoreLevelDiv {
+    color: rgb(73, 156, 188);
+    font-size: 25px;
+    margin: auto;
+    color:white;
+
+}
